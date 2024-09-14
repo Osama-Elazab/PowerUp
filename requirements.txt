@@ -2,3 +2,4 @@ keyboard==0.13.5
 PyAutoGUI==0.9.54
 colorama==0.4.6
 Pillow==9.4.0
+pyinstaller==5.9.0
