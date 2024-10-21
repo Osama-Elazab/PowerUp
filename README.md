@@ -1,12 +1,17 @@
 # PowerUp
-PowerUp is a small application that prevents your local/remote machine from going to sleep, shutdown and screen lock.
+- Are you working on a **machine**💻 that you don't have full **admin privileges**?
 
-**In case you want to run binary app direcly:**
-  1. Download the release zipped file.
-  2. Double click PowerUp_GUI.exe if you want to run in GUI or open a terminal and run PowerUp_CLI.exe if you wan to run in CLI mode.
-  
-**In case you want to convert source code manually to binary app:**
-  1. Make sure you have python installed on your machine (run in cmd: python --version to check).
-  2. Clone or download the repo and install required external libraries using: pip install -r requirements.txt
-  3. Convert to GUI by running the follwoing comand : pyinstaller GUI.py --icon=icon.ico --clean --name=PowerUp_GUI.exe --onefile --noconsole, binary will be in dist folder
-  4. Convert to CLI by running the follwoing comand : pyinstaller CLI.py --icon=icon.ico --clean --name=PowerUp_CLI.exe --onefile --console, binary will be in dist folder
+- The machine keeps **locking**🔐 if no activity is detected and this is blocking⛔ or annoying🙁 to you one way or another?
+
+- You want to stop it, this **repo** is made for you💡!
+
+- **PowerUp** is an application that prevents your local/remote **machine** from going to **sleep**, **shutdown** or **screen lock**🚫
+
+- It's simply ⚡**PowerUp**⚡ your machine.
+
+- No need for **install** anything, just a few button clicks and **that's it**⏱️!
+
+**How to run the application:**
+  1. Download the **release** zipped file and extract it
+  2. If you want to run in *GUI* mode -most common way- then double click **PowerUp_GUI.exe** and click on **start** button▶️.
+  3. If you wan to run in *CLI* mode -nerd mode- then open a cmd and run **PowerUp_CLI.exe**
