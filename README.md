@@ -10,8 +10,3 @@
 - It's simply ⚡**PowerUp**⚡ your machine.
 
 - No need for **install** anything, just a few button clicks and **that's it**⏱️!
-
-**How to run the application:**
-  1. Download the **release** zipped file and extract it
-  2. If you want to run in *GUI* mode -most common way- then double click **PowerUp_GUI.exe** and click on **start** button▶️.
-  3. If you wan to run in *CLI* mode -nerd mode- then open a cmd and run **PowerUp_CLI.exe**
