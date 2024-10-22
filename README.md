@@ -9,4 +9,9 @@
 
 - It's simply ⚡**PowerUp**⚡ your machine.
 
-- No need for **install** anything, just a few button clicks and **that's it**⏱️!
+- No need for **install** anything, just a few button clicks, **that's it**⏱️!
+
+![image](https://github.com/user-attachments/assets/cb87d0be-123a-4e11-8200-0f22a0a949df)
+
+
+
